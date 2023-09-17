@@ -13,30 +13,15 @@
 # 🔧 Languages I worked on :
 >These are put in preference order
 
-<div style="display: flex; flex-wrap: wrap;">
-    <div>
-        <img src="assets/python_logo.png" alt="Python" height="75">
-    </div>
-    <div>
-        <img src="assets/php_logo.png" alt="PHP" height="75">
-    </div>
-    <div>
-        <img src="assets/JS_logo.png" alt="JavaScript" height="75">
-    </div>
-    <div>
-        <img src="assets/sql_logo.png" alt="SQL" height="75">
-    </div>
-    <div>
-        <img src="assets/c_sharp_logo.png" alt="C#" height="75">
-    </div>
-    <div>
-        <img src="assets/html_logo.png" alt="HTML" height="75">
-    </div>
-    <div>
-        <img src="assets/css_logo.png" alt="CSS" height="75">
-    </div>
+<div align="left">
+    <img src="assets/python_logo.png" alt="Python" height="75">
+    <img src="assets/php_logo.png" alt="PHP" height="75">
+    <img src="assets/JS_logo.png" alt="JavaScript" height="75">
+    <img src="assets/sql_logo.png" alt="SQL" height="75">
+    <img src="assets/c_sharp_logo.png" alt="C#" height="75">
+    <img src="assets/html_logo.png" alt="HTML" height="75">
+    <img src="assets/css_logo.png" alt="CSS" height="75">
 </div>
-
 
 <br>
 
@@ -56,14 +41,9 @@ Tennis |  Subnautica | Rise of the Guardians
 # ✏️ Contact me :
 
 <div style="display: flex;">
-    <div>
-        <a href="https://www.linkedin.com/in/quentin-garnier-07a58824b/">
-            <img src="assets/linkedIn_icon.png" width=100 style="padding-right: 20px;">
-        </a>
-    </div>
-    <div>
-        <a href="mailto:quentingarnier92320@gmail.com">
-            <img src="assets/maill_icon.png" width=100>
-        </a>
-    </div>
+
+<a href="https://www.linkedin.com/in/quentin-garnier-07a58824b/"><img src="assets/linkedIn_icon.png" width=100 style="padding-right: 20px;"></a>
+
+<a href="mailto:quentingarnier92320@gmail.com"><img src="assets/maill_icon.png" width=100></a>
+
 </div>
