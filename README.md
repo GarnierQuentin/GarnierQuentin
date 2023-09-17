@@ -40,10 +40,9 @@ Tennis |  Subnautica | Rise of the Guardians
 
 # ✏️ Contact me :
 
-<div style="display: flex;" align="left">
+<div align="left">
 
 <a href="https://www.linkedin.com/in/quentin-garnier-07a58824b/"><img src="assets/linkedIn_icon.png" width=100 style="padding-right: 20px;"></a>
-
 <a href="mailto:quentingarnier92320@gmail.com"><img src="assets/maill_icon.png" width=100></a>
 
 </div>
