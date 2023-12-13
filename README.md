@@ -6,7 +6,6 @@
 - Currently in my **2nd year** at **IIM digital school**
 - Desire to become a **full stack developer**
 - ```Involved in coding association```
-- You can see my portfolio (FR) right <a href=https://garnierquentin.github.io/portfolio/> here </a>
 - ~~Started with Scratch at middle school~~
 
 
