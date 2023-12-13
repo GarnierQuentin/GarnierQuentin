@@ -24,7 +24,9 @@
 
 <br>
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=GarnierQuentin&show_icons=true&theme=one_dark_pro)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=GarnierQuentin&show_icons=true&rank_icon=github&hide_rank=false&theme=one_dark_pro)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarnierQuentin&layout=compact&theme=one_dark_pro)
 
 
 
